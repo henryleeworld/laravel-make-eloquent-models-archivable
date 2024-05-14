@@ -1,4 +1,4 @@
-# Laravel 8 為 Eloquent 模型進行封存
+# Laravel 10 為 Eloquent 模型進行封存
 
 引入 joelbutcher 的 laravel-archivable 套件來擴增為 Eloquent 模型進行封存，資料並不是真的從資料庫被移除，在查詢使用封存功能的模型時，被「封存」的模型資料不會出現在查詢結果裡。
 
